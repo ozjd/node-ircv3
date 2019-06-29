@@ -1,0 +1,3 @@
+29/06/2019
+1. Created project on Github
+2. Created project in VSCode, with ESLint and Prettier support
